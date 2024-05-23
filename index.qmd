@@ -72,21 +72,22 @@ format:
 :::
 
 
+## Bénéfices écologiques et services écosystémiques 
 
 
-## Ecosystem services & ecological benefits
 
 ## Our research questions
 
 ## Sampling: green alleyways
 
-## Sampling: ecosystem services
-
 ## Sampling: ecological benefits
 
-## Provision of temperature mitigation
+
+## Sampling: ecosystem services
 
 ## Provision of biodiversity
+
+## Provision of temperature mitigation 
 
 ## Trade-offs & synergies
 
