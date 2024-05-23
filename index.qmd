@@ -1,0 +1,114 @@
+---
+title: "Les ruelles vertes du Québec et leurs bénéfices écologiques"
+author: "Isabella C. Richmond, Kayleigh Hutt-Taylor, Lauren Bianco, Antonia Vieira Zanella, Carly D. Ziter"
+format: 
+  revealjs:
+    theme: simple
+    slide-number: c
+---
+
+## L'infrastructure verte dans le cadre de la politique
+
+![](presentation_imgs/ppec.png){fig-align="center" width="50%"}
+
+![](presentation_imgs/montrealbudg.png){fig-align="center" width="50%"}
+
+::: notes
+-   on title slide make sure to finish the full name of the title
+
+-   define green infrastructure: Les infrastructures végétalisées (IV) incluent toutes les phytotechnologies et les pratiques de verdissement (par Québec Vert).
+
+-   green infrastructure is increasing as a popular solution to many of the problems our cities face as a result of climate change; the urban heat island effect, flooding, connection with nature, etc.
+
+-   policy that explicitly addresses or mentions green infrastructure is increasing, including in Quebec
+
+-   for example, green infrastructure is mentioned in the Plan pour une economie verte 2030 du Quebec, Montreal's city budget, and is incorporated in many ways in other cities across Quebec such as Trois Rivieres and Quebec City
+:::
+
+## Les affirmations des infrastructures vertes
+
+![[Le rapport sur les enjeux nationaux](https://changingclimate.ca/national-issues/fr/)](presentation_imgs/parkbenefits_fr.png)
+
+::: notes
+-   Many policies or projects that include IV have a long list of benefits that resembles the one on the screen
+-   Some of these, and potentially all of them, are true in various IV projects
+-   but these claims often go un-interrogated
+-   what IV are providing which of these? What management strategies maximize one type of benefit or harmonize across many? This fundamental gap was the impetus for our collaborative project
+:::
+
+## L'étude de cas des ruelles vertes
+
+::: columns
+::: {.column width="60%"}
+::: {layout="[[-1], [1], [-1]]"}
+
+-   Augmenter la biodiversité
+
+-   Augmenter la connectivité biologique
+
+-   Réduire l’effet d’îlots de chaleur
+
+-   Améliorer la qualité de l’air
+
+-   Fournissent des habitats pour des petits mammifères, des oiseaux et des insectes
+:::
+:::
+
+::: {.column width="40%"}
+
+::: {layout="[[-1], [1], [-1]]"}
+![](presentation_imgs/ecoquartiers.png){fig-align="left"}
+:::
+:::
+:::
+
+::: notes
+-   ruelles vertes are a great example of everything we have been discussing up to this point
+-   they are a really interesting form of green infrastructure because they allow greening in already dense areas of cities
+-   they are increasing in popularity across the world, as well as in Quebec
+-   the policies surrounding them claim that they provide many benefits
+-   for example, eco quartiers is one of the organizations that runs the ruelles vertes program in Montreal and it has a long list of benefits of ruelles vertes in the city
+-   we don't actually know what the advantages and disadvantages of ruelles vertes may be in many cases
+:::
+
+
+
+
+## Ecosystem services & ecological benefits
+
+## Our research questions
+
+## Sampling: green alleyways
+
+## Sampling: ecosystem services
+
+## Sampling: ecological benefits
+
+## Provision of temperature mitigation
+
+## Provision of biodiversity
+
+## Trade-offs & synergies
+
+## Merci beaucoup!
+
+::: columns
+::: {.column width="60%"}
+![](presentation_imgs/ZULE_logo_green_name.png)
+
+![](presentation_imgs/LabPhoto_Summer2024.jpg){width="70%" fig-align="center"}
+:::
+
+::: {.column width="40%"}
+::: {layout="[[-1], [1], [-1]]"}
+-   Johanna Arnet
+-   Mes collaborateurs/collaboratrices a UQAM, Organisme Respire, UdeM
+-   Les personnes interviewées
+-   Les arbres et les plantes
+:::
+:::
+:::
+
+## Des questions?
+
+![](presentation_imgs/bigtree.jpg){fig-align="center"}

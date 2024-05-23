@@ -1,0 +1,7 @@
+project:
+  title: "Presentation APERAU 2024"
+  type: website
+  output-dir: docs
+
+
+from: markdown+emoji
