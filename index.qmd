@@ -3,7 +3,7 @@ title: "Les ruelles vertes du Québec et leurs bénéfices écologiques"
 author: "Isabella C. Richmond, Kayleigh Hutt-Taylor, Lauren Bianco, Antonia Vieira Zanella, Carly D. Ziter"
 title-slide-attributes:
   data-background-image: /presentation_imgs/image832.png
-  data-background-opacity: "0.75"
+  data-background-opacity: "0.65"
 format: 
   revealjs:
     theme: simple
@@ -12,9 +12,17 @@ format:
 
 ## L'infrastructure verte dans le cadre de la politique
 
-![](presentation_imgs/ppec.png){fig-align="center" width="50%"}
+::: columns
+::: {.column width="50%"}
+![](presentation_imgs/ppec.png){fig-align="left"}
 
-![](presentation_imgs/montrealbudg.png){fig-align="center" width="50%"}
+![](presentation_imgs/montrealbudg.png){fig-align="left"}
+:::
+
+::: {.column width="50%"}
+![](presentation_imgs/TR_IV.png){fig-align="right"}
+:::
+:::
 
 ::: notes
 -   on title slide make sure to finish the full name of the title
@@ -28,7 +36,7 @@ format:
 -   for example, green infrastructure is mentioned in the Plan pour une economie verte 2030 du Quebec, Montreal's city budget, and is incorporated in many ways in other cities across Quebec such as Trois Rivieres and Quebec City
 :::
 
-## Les affirmations des infrastructures vertes
+## Le discours populaires des infrastructures vertes
 
 ![[Le rapport sur les enjeux nationaux](https://changingclimate.ca/national-issues/fr/)](presentation_imgs/parkbenefits_fr.png)
 
@@ -50,9 +58,9 @@ format:
 ::: {layout="[[-1], [1], [-1]]"}
 -   Augmenter la biodiversité
 
--   Augmenter la connectivité biologique
+-   Augmenter la connectivité écologique
 
--   Réduire l’effet d’îlots de chaleur
+-   Réduire l’effet des îlots de chaleur
 
 -   Améliorer la qualité de l’air
 
@@ -134,29 +142,21 @@ format:
 
 ## L'atténuation de la température est variable à Montréal
 
-::: columns
-::: {.column width="80%"}
-![](presentation_imgs/mtltemp.png){fig-align="left"}
-:::
+::: r-stack
+![](presentation_imgs/mtltemp.png){fig-align="center" width="70%"}
 
-::: {.column width="20%"}
-::: {layout="[[-1], [1], [-1]]"}
-![](presentation_imgs/RV-VSMPE-21_S1.jpg){fig-align="right" width="60%"} ![](presentation_imgs/RV-VSMPE-5_S1.jpg){fig-align="right" width="60%"}
-:::
-:::
+![](presentation_imgs/ruelles_mtl.png){.fragment fig-align="center" width="50%"}
 :::
 
 ## À Trois-Rivieres, les ruelles vertes rafraîchissent la nuit
 
 ::: columns
-::: {.column width="80%"}
+::: {.column width="70%"}
 ![](presentation_imgs/trtemp.png){fig-align="left"}
 :::
 
-::: {.column width="20%"}
-::: {layout="[[-1], [1], [-1]]"}
+::: {.column width="30%"}
 ![](presentation_imgs/RV-TR-12.jpg){fig-align="right"}
-:::
 :::
 :::
 
@@ -164,12 +164,22 @@ format:
 
 ![](presentation_imgs/tempdiv_tradeoff.png){fig-align="center"}
 
-::: notes
--   
+##  {background-image="presentation_imgs/dogwood.png"}
 
--   il y a des choses a venir! Des statistiques formelles, l'intégration des données de l'architecture paysagere
+::: columns
+::: {.column width="90%"}
+::: {style="background-color: #c0c0beff; opacity: 80%"}
+**Points à retenir**
 
--   En plus, on continue notre travail a TR cet ete
+-   Les ruelles vertes offrent des bénéfices importants
+
+-   Nous ne savons pas quelles infrastructures vertes ni quels types d'aménagement offrent le plus bénéfices
+
+-   Probablement il y a des compromis entre les bénéfices écologiques et les services écosystemiques
+
+-   Il y a des choses à venir !
+:::
+:::
 :::
 
 ## Merci beaucoup!
@@ -184,7 +194,7 @@ format:
 ::: {.column width="40%"}
 ::: {layout="[[-1], [1], [-1]]"}
 -   Johanna Arnet
--   Mes collaborateurs/collaboratrices a UQAM, Organisme Respire, UdeM
+-   Mes collaborateurs/collaboratrices à UQAM, Organisme Respire, UdeM
 -   Les personnes interviewées
 -   Les ruelles !
 :::

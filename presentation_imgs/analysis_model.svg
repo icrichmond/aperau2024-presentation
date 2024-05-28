@@ -3,8 +3,8 @@
 
 <svg
    width="304.61606mm"
-   height="135.53294mm"
-   viewBox="0 0 304.61606 135.53294"
+   height="138.17589mm"
+   viewBox="0 0 304.61606 138.17588"
    version="1.1"
    id="svg5"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
@@ -103,14 +103,14 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(1.0003805,-38.276095)">
+     transform="translate(1.0003804,-38.276095)">
     <rect
-       style="fill:#669d62;fill-opacity:1;stroke:#ffffff;stroke-width:0.866183"
+       style="fill:#669d62;fill-opacity:1;stroke:#ffffff;stroke-width:0.87552"
        id="rect962-8-5-9-8"
-       width="135.64503"
-       height="90.7229"
-       x="-0.067289032"
-       y="82.471245" />
+       width="135.6357"
+       height="92.695763"
+       x="-0.062620409"
+       y="82.475914" />
     <rect
        style="fill:#668000;fill-opacity:0;stroke:#000000;stroke-width:0.509853;stroke-opacity:1"
        id="rect962-8-8"
@@ -177,17 +177,17 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          x="11.821192"
          y="151.46446"
-         id="tspan20342">  - l'abondance de vegetation</tspan><tspan
+         id="tspan20342">  - l'abondance de végétation</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          x="11.821192"
          y="158.96098"
-         id="tspan20344">  - la complexité de vegetation</tspan><tspan
+         id="tspan20344">  - la complexité de végétation</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          x="11.821192"
          y="166.4575"
-         id="tspan58486">  - la connectivité</tspan></text>
+         id="tspan58486">  - la connectivité écologique</tspan></text>
     <image
        width="20.498919"
        height="20.498919"
@@ -207,12 +207,12 @@
        y="99.374245"
        style="fill:#008000" />
     <rect
-       style="fill:#c2d6a4;fill-opacity:1;stroke:#ffffff;stroke-width:0.866183"
+       style="fill:#c2d6a4;fill-opacity:1;stroke:#ffffff;stroke-width:0.87861"
        id="rect962-8-5-9"
-       width="135.64503"
-       height="90.7229"
-       x="167.03755"
-       y="82.153053" />
+       width="135.6326"
+       height="93.353409"
+       x="167.04376"
+       y="82.159271" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.297754px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend-3-4)"
        d="m 226.90507,108.40106 c 15.33435,0.23704 15.33435,0.23704 15.33435,0.23704"
@@ -232,37 +232,42 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
        x="170.70183"
-       y="130.88986"
+       y="125.59824"
        id="text15419-5"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.99722px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          x="170.70183"
-         y="130.88986"
-         id="tspan98170">Analyse déterminée par les entretiens</tspan><tspan
+         y="125.59824"
+         id="tspan98170">Analyse déterminée par les entretiens </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.99722px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="170.70183"
+         y="133.09477"
+         id="tspan11580">avec la communauté</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          x="170.70183"
-         y="138.38638"
+         y="140.59129"
          id="tspan37357">- verdissement</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          x="170.70183"
-         y="145.88292"
+         y="148.08781"
          id="tspan37359">- l'atténuation de la température</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          x="170.70183"
-         y="153.37944"
+         y="155.58435"
          id="tspan37361">- les grands arbres</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          x="170.70183"
-         y="160.87596"
-         id="tspan37363">- l'amenagement</tspan><tspan
+         y="163.08087"
+         id="tspan37363">- l'aménagement</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          x="170.70183"
-         y="168.37248"
+         y="170.57739"
          id="tspan37365">- l'approvisionnement alimentaire</tspan></text>
     <image
        width="20.498919"
