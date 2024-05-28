@@ -41,10 +41,7 @@ format:
 
 ## Les deux catégories écologiques
 
-
 ![](presentation_imgs/conceptual_model.png)
-
-
 
 ## L'étude de cas des ruelles vertes
 
@@ -78,8 +75,6 @@ format:
 -   for example, eco quartiers is one of the organizations that runs the ruelles vertes program in Montreal and it has a long list of benefits of ruelles vertes in the city
 -   we don't actually know what the advantages and disadvantages of ruelles vertes may be in many cases
 :::
-
-
 
 ## Nos questions de recherche
 
@@ -130,6 +125,8 @@ format:
 :::
 
 ## L'analyse des bénéfices écologiques et des services écosystémiques
+
+![](presentation_imgs/analysis_model.png)
 
 ## La biodiversité des arbres est très variable
 
