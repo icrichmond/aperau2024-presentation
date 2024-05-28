@@ -39,6 +39,13 @@ format:
 -   what IV are providing which of these? What management strategies maximize one type of benefit or harmonize across many? This fundamental gap was the impetus for our collaborative project
 :::
 
+## Les deux catégories écologiques
+
+
+![](presentation_imgs/conceptual_model.png)
+
+
+
 ## L'étude de cas des ruelles vertes
 
 ::: columns
@@ -72,7 +79,7 @@ format:
 -   we don't actually know what the advantages and disadvantages of ruelles vertes may be in many cases
 :::
 
-## Des bénéfices écologiques et des services écosystémiques
+
 
 ## Nos questions de recherche
 
