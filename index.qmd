@@ -1,6 +1,9 @@
 ---
 title: "Les ruelles vertes du Québec et leurs bénéfices écologiques"
 author: "Isabella C. Richmond, Kayleigh Hutt-Taylor, Lauren Bianco, Antonia Vieira Zanella, Carly D. Ziter"
+title-slide-attributes:
+  data-background-image: /presentation_imgs/image832.png
+  data-background-opacity: "0.75"
 format: 
   revealjs:
     theme: simple
@@ -41,7 +44,6 @@ format:
 ::: columns
 ::: {.column width="60%"}
 ::: {layout="[[-1], [1], [-1]]"}
-
 -   Augmenter la biodiversité
 
 -   Augmenter la connectivité biologique
@@ -55,7 +57,6 @@ format:
 :::
 
 ::: {.column width="40%"}
-
 ::: {layout="[[-1], [1], [-1]]"}
 ![](presentation_imgs/ecoquartiers.png){fig-align="left"}
 :::
@@ -71,24 +72,101 @@ format:
 -   we don't actually know what the advantages and disadvantages of ruelles vertes may be in many cases
 :::
 
+## Des bénéfices écologiques et des services écosystémiques
 
-## Bénéfices écologiques et services écosystémiques 
+## Nos questions de recherche
 
+::: columns
+::: {.column width="50%"}
+::: incremental
+1.  Quels sont les bénéfices écologiques fournis par les ruelles vertes?
 
+2.  Quels sont les services écosystémiques fournis par les ruelles vertes?
 
-## Our research questions
+3.  Quels sont les compromis entre les deux?
+:::
+:::
 
+::: {.column width="50%"}
+![](presentation_imgs/newruelle.jpg){width="60%"}
+:::
+:::
 
-## Sampling: ecological benefits
+::: notes
+-   so the first question is what are the true ecological benefits (nature for nature), then what are the true ecosystem services (nature for humans) provided by these ruelles
 
+-   and then finally, what are the trade-offs or synergies between these two groups of services?
 
-## Sampling: ecosystem services
+-   we hypothesize that ruelles vertes will provide higher levels of both ecological benefits and ecosystem services compared to traditional ruelles, but that the level of benefits and services will be highly variable and dependent on management strategies
+:::
 
-## Provision of biodiversity
+## Échantillonnage des données écologiques
 
-## Provision of temperature mitigation 
+::: columns
+::: {.column width="70%"}
+![](presentation_imgs/studymap.png){fig-align="left"}
+:::
 
-## Trade-offs & synergies
+::: {.column width="30%"}
+**Mesures**
+
+-   Température d'air
+
+-   Complexité de la végétation
+
+-   Inventaire des arbres (abondance et diversité)
+
+-   Présence des lucioles
+
+-   Inventaire total de la végétation
+:::
+:::
+
+## L'analyse des bénéfices écologiques et des services écosystémiques
+
+## La biodiversité des arbres est très variable
+
+![](presentation_imgs/treespecies.png){fig-align="center"}
+
+## L'atténuation de la température est variable à Montréal
+
+::: columns
+::: {.column width="80%"}
+![](presentation_imgs/mtltemp.png){fig-align="left"}
+:::
+
+::: {.column width="20%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](presentation_imgs/RV-VSMPE-21_S1.jpg){fig-align="right" width="60%"} ![](presentation_imgs/RV-VSMPE-5_S1.jpg){fig-align="right" width="60%"}
+:::
+:::
+:::
+
+## À Trois-Rivieres, les ruelles vertes rafraîchissent la nuit
+
+::: columns
+::: {.column width="80%"}
+![](presentation_imgs/trtemp.png){fig-align="left"}
+:::
+
+::: {.column width="20%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](presentation_imgs/RV-TR-12.jpg){fig-align="right"}
+:::
+:::
+:::
+
+## Il y a possiblement un compromis entre la biodiversité et la température
+
+![](presentation_imgs/tempdiv_tradeoff.png){fig-align="center"}
+
+::: notes
+-   
+
+-   il y a des choses a venir! Des statistiques formelles, l'intégration des données de l'architecture paysagere
+
+-   En plus, on continue notre travail a TR cet ete
+:::
 
 ## Merci beaucoup!
 
@@ -104,11 +182,11 @@ format:
 -   Johanna Arnet
 -   Mes collaborateurs/collaboratrices a UQAM, Organisme Respire, UdeM
 -   Les personnes interviewées
--   Les arbres et les plantes
+-   Les ruelles !
 :::
 :::
 :::
 
 ## Des questions?
 
-![](presentation_imgs/bigtree.jpg){fig-align="center"}
+![](presentation_imgs/secrets.jpg){fig-align="center"}
