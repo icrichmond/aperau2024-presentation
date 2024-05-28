@@ -100,7 +100,7 @@ format:
 -   we hypothesize that ruelles vertes will provide higher levels of both ecological benefits and ecosystem services compared to traditional ruelles, but that the level of benefits and services will be highly variable and dependent on management strategies
 :::
 
-## Échantillonnage des données écologiques
+## Échantillonnage des données écologiques {.smaller}
 
 ::: columns
 ::: {.column width="70%"}
@@ -108,9 +108,8 @@ format:
 :::
 
 ::: {.column width="30%"}
-**Mesures**
-
--   Température d'air
+::: {layout="[[-1], [1], [-1]]"}
+-   Température de l'air
 
 -   Complexité de la végétation
 
@@ -119,6 +118,7 @@ format:
 -   Présence des lucioles
 
 -   Inventaire total de la végétation
+:::
 :::
 :::
 
